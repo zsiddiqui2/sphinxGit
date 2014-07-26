@@ -1,0 +1,5 @@
+six
+Jinja2>=2.3
+Pygments>=1.2
+docutils>=0.10
+snowballstemmer>=1.1
